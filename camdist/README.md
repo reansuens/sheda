@@ -2,6 +2,8 @@
 
 Measure an object's size with one or two cameras in the checkerboard room. Everything is `camdist.py`. The long guide (install details, options, training) is `README_full.md`.
 
+**Showing it to someone: read `DEMO.md` first** (a checklist, the exact commands, and what to do when something breaks).
+
 ## Once
 
 ```

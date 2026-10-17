@@ -10,6 +10,6 @@ The object stands in a "checkerboard room": a floor and two walls covered in 10 
 | `camdist_app/` | the Android app (Kotlin) that streams the phone camera and the ESP32-CAM. `./build.sh install` builds and installs it |
 | `esp32cam/` | the ESP32-CAM sketches (`SerialCam` streams over USB) |
 
-Quickest start: open `camdist/thonny_run.py` in Thonny and press Run.
+Quickest start: open `camdist/thonny_run.py` in Thonny and press Run. To show it live: `camdist/DEMO.md`.
 
 The database (`camdist/data/`: logs, frames, calibrations, trained models) is not in the repository. Without it the program starts a fresh one.
