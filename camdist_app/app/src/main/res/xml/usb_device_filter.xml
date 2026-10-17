@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- the USB-serial chips on ESP32-CAM boards and adapters: CH340, CP210x, FTDI -->
+    <usb-device vendor-id="6790" />
+    <usb-device vendor-id="4292" />
+    <usb-device vendor-id="1027" />
+</resources>

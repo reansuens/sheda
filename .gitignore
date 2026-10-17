@@ -1,0 +1,11 @@
+# data and generated files stay out of the repository
+camdist/data/
+camdist/reports/
+__pycache__/
+.venv/
+build/
+.gradle/
+local.properties
+*.sqlite
+*.pt
+annotated.jpg

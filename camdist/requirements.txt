@@ -1,0 +1,19 @@
+# camdist, tested versions (Python 3.12). Install torch and torchvision from https://pytorch.org first if you want a GPU.
+numpy==2.5.4
+scipy==1.18.1
+opencv-python==5.0.0.93
+pillow==12.3.0
+requests==2.34.2
+pyserial==3.5
+matplotlib==3.11.2
+torch==2.14.1
+torchvision==0.29.1
+transformers==5.19.0
+timm==1.0.30
+einops==0.8.2
+kornia==0.8.3
+huggingface-hub==2.2.0
+safetensors==0.8.0
+# optional: ONNX export of the small networks (export command)
+onnx==1.23.2
+onnxruntime==1.31.0
